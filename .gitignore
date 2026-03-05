@@ -1,0 +1,16 @@
+# Ignore model checkpoints
+*.ckpt
+*.pt
+
+# Ignore NetCDF / GRIB files
+*.grib
+*.nc
+*.h5
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+.env/
